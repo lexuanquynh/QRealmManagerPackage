@@ -239,4 +239,4 @@ class EmbeddedRepository: DatabaseConfigurable {
 
 ### License
 
-[MIT LICENSE](License)
+[MIT LICENSE](LICENSE)
