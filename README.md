@@ -1,7 +1,6 @@
-# QRealmManagerPackage
-
 ### Realm Manager for iOS
 
+# QRealmManager
 
 ## Sample Projects
 See QRealmManagerDemo and run test for reference samples.
@@ -10,6 +9,22 @@ See QRealmManagerDemo and run test for reference samples.
 Pod:
 ```
 pod 'QRealmManager'
+```
+
+Then import:
+
+```
+import QRealmManager
+```
+
+Swift package:
+
+```
+https://github.com/lexuanquynh/QRealmManagerPackage.git
+```
+Then import:
+```Swift
+import QRealmManagerPackage
 ```
 
 ## Usage
